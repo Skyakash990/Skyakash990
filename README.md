@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Skyakash990
 &label=Profile%20views&color=0e75b6&style=flat" alt="Skyakash990
 " /> </p>
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FCB700&width=435&lines=HI%2C+I+am+Aniket+Parmar;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FCB700&width=435&lines=HI%2C+I+am+Aakash+Nandoliya;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 
  
 
