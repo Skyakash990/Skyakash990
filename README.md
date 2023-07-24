@@ -1,121 +1,15 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Skyakash990
-&label=Profile%20views&color=0e75b6&style=flat" alt="Skyakash990
-" /> </p>
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FCB700&width=435&lines=HI%2C+I+am+Aakash+Nandoliya;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm Akash Nandoliya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
- 
+- 🌱 I’m currently learning **Reactjs,Nodejs,MongoDB,Expressjs**
 
-- 👨‍💻 All of my projects are available at <a href="" target="_blank">Portfolio</a>
+- 💬 Ask me about **React,MernStack**
 
-- 💬 Ask me about **react,redux,node.js,tailwindcss,javascript**
-
-- 📫 How to reach me <a href="https://www.linkedin.com/in/akash-nandoliya-1a4b1b213/" target="_blank">Linkedin</a>
-
-- 📄 Know about my experiences <a href="" target="_blank">Résumé</a>
-
-- ⚡ Fun fact **I love Cricket and peace **
-<hr>
-
-<img align="center" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-<hr>
+- 📫 How to reach me **nandoliyaakash990@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aniket9904026" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket9904026" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniket-parmar-a42597239" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-parmar-a42597239" height="30" width="40" /></a>
 </p>
-<br>
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<table  align=center>
-  <tr>
- <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
-     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height=100   ></td>
-    <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"  height=100   width=150 ></td>
-     <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-3-1175138.png"  height=100  ></td>
-   
-  </tr>
-  <tr>
-  <td align=center>  <img src="https://img.icons8.com/color/48/null/chakra-ui.png"   width=100  ></td>
-   <td align=center> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"  height=100    ></td>
-  <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
-  <td align=center> <img src="https://img.icons8.com/plasticine/100/null/github.png"  height=100  ></td>
-  </tr>
-<tr>
-  <td align=center>  <img src="https://cdn.iconscout.com/icon/free/png-128/html-59-225995.png"   width=100  ></td>
-   <td align=center> <img src="https://cdn-icons-png.flaticon.com/128/888/888897.png"  height=100    ></td>
- <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png"  height=100  ></td>
-  <td align=center> <img src="https://code.visualstudio.com/assets/images/code-stable.png"  height=100  ></td>
-  </tr>
-</table>
-
-<br>
-<hr>
-
-<h3 align="left">Git profile Trophies:</h3>
-
-<div align="center">
-  <p align="center" style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skyakash990
-&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
-</p>
-</div>
-<br>
-<hr>
-<div align="center">
-  <a href="https://github.com/Skyakash990
-/github-readme-stats">
-    <img
-      alt="Skyakash990
- Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyakash990
-&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
-    />
-  </a>
-</div>
-<br />
-<hr>
-<!-- https://streak-stats.demolab.com/demo/  -->
-<div align="center">
-  <a href="https://github.com/Skyakash990
-/github-readme-streak-stats">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="Skyakash990
- streak"
-      src="https://streak-stats.demolab.com?user=Skyakash990
-&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
-    />
-  </a>
-</div>
-<br />
-<hr>
-<div align="center">
-  <a href="https://github.com/Skyakash990
-/github-readme-stats">
-    <img
-      alt="Skyakash990
- Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=Skyakash990
-&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
-    />
-  </a>
-</div>
-<br>
-<hr>
-<div align="center">
-  <a href="https://github.com/Skyakash990
-">
-    <span>
-      <img
-        alt=""
-        align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skyakash990
-&theme=github_dark"
-      />
-    </span>
-  </a>
-</div>
-<br>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
