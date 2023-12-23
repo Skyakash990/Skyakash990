@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,MongoDB,Expressjs**
 
-- 💬 Ask me about **Reactjs,MernStack*
+- 💬 Ask me about **Reactjs,MernStack*,Dsa
 
 - 📫 How to reach me **nandoliyaakash990@gmail.com**
 
