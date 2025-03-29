@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <h3 align="center">Persuing Master of Computer Applicaions</h3>
 
-<img width="500" align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img width="300"  align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,MongoDB,Expressjs**
